@@ -1,0 +1,14 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Ignore build folders
+x64/
+Debug/
+Release/
+
+# Ignore large .obj files
+objects/*.obj

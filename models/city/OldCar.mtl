@@ -1,0 +1,286 @@
+# Blender 4.5.4 LTS MTL File: 'Honda.blend'
+# www.blender.org
+
+newmtl NSXLB:Honda_NSXLBWorksRewardRecycled_1992_CallipersCall_8781de3
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/CalliperBadgeA_Diffuse.png
+map_d textures/CalliperBadgeA_Diffuse.png
+
+newmtl NSXLB:Honda_NSXLBWorksRewardRecycled_1992_CallipersCall_b4a5d32
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.013986 0.013986 0.013986
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 textures/Global_Texture_Calliper_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksRewardRecycled_1992_Wheel1A_3D_3D_a9741ee
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_Wheel1B_DiffuseAOSO.png
+map_d textures/Honda_NSXLBWorks_1992_Wheel1B_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_Wheel1A_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992BadgeA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/BadgeA_DiffuseAOSO.png
+map_d textures/BadgeA_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_BadgeA_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Base_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Carbon2M_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd textures/common_carbon05_black_diff.png
+map_Bump -bm 1.000000 textures/common_carbon05_norm.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Coloured_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Global_Texture_Coloured_Diffuse_P.png
+map_d textures/Global_Texture_Coloured_Diffuse_P.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992EngineA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/EngineA_DiffuseAOSO.png
+map_d textures/EngineA_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_EngineA_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Grille1A_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_Grille1A_DiffuseAOSO.png
+map_d textures/Honda_NSXLBWorks_1992_Grille1A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_Grille1A_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Grille2A_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_Grille2A_DiffuseAOSO.png
+map_d textures/Honda_NSXLBWorks_1992_Grille2A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_Grille2A_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Grille3A_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_Grille3A_DiffuseAOSO.png
+map_d textures/Honda_NSXLBWorks_1992_Grille3A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_Grille3A_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Grille4A_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Grille4A_DiffuseAOSO.png
+map_d textures/Grille4A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_Grille4A_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Grille5A_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_Grille5A_DiffuseAOSO.png
+map_d textures/Honda_NSXLBWorks_1992_Grille5A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_Grille5A_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Grille6A_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_Grille6A_DiffuseAOSO.png
+map_d textures/Honda_NSXLBWorks_1992_Grille6A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_Grille6A_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992Grille7A_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_Grille7A_DiffuseAOSO.png
+map_d textures/Honda_NSXLBWorks_1992_Grille7A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_Grille7A_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992InteriorA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/InteriorA_DiffuseAOSO.png
+map_d textures/InteriorA_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_InteriorA_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992InteriorTillingA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_InteriorTillingA_DiffuseAOSO.png
+map_d textures/Honda_NSXLBWorks_1992_InteriorTillingA_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSXLBWorks_1992_InteriorTillingA_Normal.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992LightA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_LightA_Diffuse.png
+map_d textures/Honda_NSXLBWorks_1992_LightA_Diffuse.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992ManufacturerPlateA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_ManufacturerPlateA_Diffuse.png
+map_d textures/Honda_NSXLBWorks_1992_ManufacturerPlateA_Diffuse.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992PaintA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/LiveryA.png
+map_Ks textures/Honda_NSXLBWorks_1992_SpecularTintA_Material.png
+map_d textures/LiveryA.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992SpecularTintA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_SpecularTintA_SpecularTint.png
+map_d textures/Honda_NSXLBWorks_1992_SpecularTintA_SpecularTint.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992TexturedA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSXLBWorks_1992_TexturedA_Diffuse.png
+map_d textures/Honda_NSXLBWorks_1992_TexturedA_Diffuse.png
+
+newmtl NSXLB:Honda_NSXLBWorksReward_1992WindowA_Material1
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/LiveryT.png
+map_d textures/LiveryT.png
+
+newmtl light_glass
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.503497
+illum 6
+
+newmtl red_glass
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+
+newmtl red_glass_2
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.064000 0.064000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.545455
+illum 6
+
+newmtl red_glass_3
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.622378
+illum 6

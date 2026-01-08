@@ -1,0 +1,32 @@
+# Blender 4.5.4 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl Parking_Area_Tex
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/Parking-Area-Tex.png
+map_d textures/Parking-Area-Tex.png
+
+newmtl Props_Atlas
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/Props-Atlas.png
+map_d textures/Props-Atlas.png
+
+newmtl Vegetation_Atlas
+Ns 200.000381
+Ka 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Vegetation-Atlas.png
+map_d textures/Vegetation-Atlas.png

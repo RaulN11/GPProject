@@ -1,0 +1,14 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl car_mat
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd textures/bipper_low_car_mat_BaseColor.png
+map_Ns textures/bipper_low_car_mat_Roughness.png
+map_refl textures/bipper_low_car_mat_Metallic.png
+map_Bump -bm 1.000000 textures/bipper_low_car_mat_NormalOpenGL.png

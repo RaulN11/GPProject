@@ -1,0 +1,209 @@
+# Blender 4.5.4 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017BadgeB_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/BadgeB_DiffuseAOSO.png
+map_d textures/BadgeB_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSX_2017_BadgeA_Normal.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Base_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Carbon1_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd textures/common_carbon05_black_diff.png
+map_Bump -bm 1.000000 textures/common_carbon05_norm.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Coloured_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Global_Texture_Coloured_Diffuse_P.png
+map_d textures./Global_Texture_Coloured_Diffuse_P.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017EngineA_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSX_2017_EngineA_DiffuseAOSO.png
+map_d textures/Honda_NSX_2017_EngineA_DiffuseAOSO.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Grille1A_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Grille1A_DiffuseAOSO.png
+map_d textures./Grille1A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSX_2017_Grille1A_Normal.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Grille2A_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Grille2A_DiffuseAOSO.png
+map_d textures/Grille2A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSX_2017_Grille2A_Normal.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Grille3A_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSX_2017_Grille3A_DiffuseAOSO.png
+map_d textures/Honda_NSX_2017_Grille3A_DiffuseAOSO.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Grille4A_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Grille4A_DiffuseAOSO.png
+map_d textures/Grille4A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSX_2017_Grille4A_Normal.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Grille5A_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Grille5A_DiffuseAOSO.png
+map_d textures/Grille5A_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSX_2017_Grille5A_Normal.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017InteriorA_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/InteriorA_DiffuseAOSO.png
+map_d textures/InteriorA_DiffuseAOSO.png
+map_Bump -bm 1.000000 textures/Honda_NSX_2017_InteriorA_Normal.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017LightA_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/LightA_Diffuse.png
+map_d textures/LightA_Diffuse.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017ManufacturerPlateB_Material
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSX_2017_ManufacturerPlateB_Diffuse.png
+map_d textures/Honda_NSX_2017_ManufacturerPlateB_Diffuse.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Paint_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Diffuse.png
+map_d textures/Diffuse.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017TexturedA_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Honda_NSX_2017_TexturedA_Diffuse.png
+map_d textures/Honda_NSX_2017_TexturedA_Diffuse.png
+
+newmtl LB_1:Honda_LBNSXRewardRecycled_2017Window_Material1.001
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.000000
+illum 6
+
+newmtl Wheel:Honda_LBNSXRewardRecycled_2017_Wheel5A_3D_3DWheel_38cd35
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Wheel11B_DiffuseAOSO.png
+map_d textures/Wheel11B_DiffuseAOSO.png
+
+newmtl glass_light.001
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.384615
+illum 6
+
+newmtl orange_glass.001
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.211542 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.608392
+illum 6
+
+newmtl red_glass.001
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.545455
+illum 6
